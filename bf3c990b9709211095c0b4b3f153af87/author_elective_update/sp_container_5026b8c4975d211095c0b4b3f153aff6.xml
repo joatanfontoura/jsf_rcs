@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Página Principal - Container 6</name>
+        <order>6</order>
+        <sp_page display_value="gc_index">7b16b084975d211095c0b4b3f153afcd</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-02-23 19:20:21</sys_created_on>
+        <sys_id>5026b8c4975d211095c0b4b3f153aff6</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Página Principal - Container 6</sys_name>
+        <sys_package display_value="JSF - Requisição de Compras" source="x_333993_jsf_rcs">bf3c990b9709211095c0b4b3f153af87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JSF - Requisição de Compras">bf3c990b9709211095c0b4b3f153af87</sys_scope>
+        <sys_update_name>sp_container_5026b8c4975d211095c0b4b3f153aff6</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-02-23 20:03:39</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="JSF - Requisição de Compras">bf3c990b9709211095c0b4b3f153af87</application>
+        <file_path/>
+        <instance_id>0e69c532db03a4d0d5c911f8489619ed</instance_id>
+        <instance_name>dev108663</instance_name>
+        <name>sp_container_5026b8c4975d211095c0b4b3f153aff6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Página Principal - Container 6</name><order>6</order><sp_page display_value="gc_index">7b16b084975d211095c0b4b3f153afcd</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>joatan</sys_created_by><sys_created_on>2023-02-23 19:20:21</sys_created_on><sys_id>5026b8c4975d211095c0b4b3f153aff6</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Página Principal - Container 6</sys_name><sys_package display_value="JSF - Requisição de Compras" source="x_333993_jsf_rcs">bf3c990b9709211095c0b4b3f153af87</sys_package><sys_policy/><sys_scope display_value="JSF - Requisição de Compras">bf3c990b9709211095c0b4b3f153af87</sys_scope><sys_update_name>sp_container_5026b8c4975d211095c0b4b3f153aff6</sys_update_name><sys_updated_by>joatan</sys_updated_by><sys_updated_on>2023-02-23 20:03:39</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>1478873916</payload_hash>
+        <record_name>Página Principal - Container 6</record_name>
+        <reverted_from/>
+        <source>3f3c154b9709211095c0b4b3f153af70</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-02-23 20:03:39</sys_created_on>
+        <sys_id>1a00450c979d211095c0b4b3f153af23</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1867fdfce0a0000001</sys_recorded_at>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-02-23 20:03:39</sys_updated_on>
+        <type>Container</type>
+        <update_guid>de00450cba9d21101e1acd8bad173822</update_guid>
+        <update_guid_history>de00450cba9d21101e1acd8bad173822:1478873916,bb78b80c185d2110f2f9ab7136118d65:889889421,1426b8c4dc5d2110661195f8c2335ef7:1035608285</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Página Principal - Container 6">c300850c979d211095c0b4b3f153af9b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-02-23 20:03:42</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>1f216ba038f24aedb419d66d2eec09e1</sys_id>
+        <sys_metadata>5026b8c4975d211095c0b4b3f153aff6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Página Principal - Container 6</sys_name>
+        <sys_package display_value="JSF - Requisição de Compras" source="x_333993_jsf_rcs">bf3c990b9709211095c0b4b3f153af87</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="JSF - Requisição de Compras">bf3c990b9709211095c0b4b3f153af87</sys_scope>
+        <sys_scope_delete display_value="">12f98419163f4c908353cbeb9c883840</sys_scope_delete>
+        <sys_update_name>sp_container_5026b8c4975d211095c0b4b3f153aff6</sys_update_name>
+        <sys_update_version display_value="sp_container_5026b8c4975d211095c0b4b3f153aff6">1a00450c979d211095c0b4b3f153af23</sys_update_version>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-02-23 20:03:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

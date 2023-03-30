@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_producer">
+    <sc_cat_item_producer action="INSERT_OR_UPDATE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <allow_edit>false</allow_edit>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <can_cancel>false</can_cancel>
+        <category display_value="Solicitações">8afb919c9719211095c0b4b3f153afc7</category>
+        <checked_out>false</checked_out>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p>OBS.: Demanda registradas serão posteriormente tratadas por meio de Requisições de Compra abertas e gerenciadas pelos analistas financeiros.</p>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Demandas</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="Joatan Fontoura">d838d6842f320010332e1e282799b66b</owner>
+        <picture>4177e1949799211095c0b4b3f153af1c</picture>
+        <post_insert_script/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=899d59509759211095c0b4b3f153afb5&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <redirect_url>generated_record</redirect_url>
+        <request_method/>
+        <roles/>
+        <save_options/>
+        <save_script/>
+        <sc_catalogs>72cb1d5c9719211095c0b4b3f153af61</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <script/>
+        <short_description>Registre a sua demanda.</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state>published</state>
+        <sys_class_name>sc_cat_item_producer</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-02-24 16:51:50</sys_created_on>
+        <sys_id>899d59509759211095c0b4b3f153afb5</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Demandas</sys_name>
+        <sys_package display_value="JSF - Requisição de Compras" source="x_333993_jsf_rcs">bf3c990b9709211095c0b4b3f153af87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JSF - Requisição de Compras">bf3c990b9709211095c0b4b3f153af87</sys_scope>
+        <sys_update_name>sc_cat_item_producer_899d59509759211095c0b4b3f153afb5</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-24 17:39:45</sys_updated_on>
+        <table_name>x_333993_jsf_rcs_demanda</table_name>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <view/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item_producer>
+    <sys_translated_text action="delete_multiple" query="documentkey=899d59509759211095c0b4b3f153afb5"/>
+    <fx_price action="delete_multiple" query="id=899d59509759211095c0b4b3f153afb5"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>899d59509759211095c0b4b3f153afb5</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-02-24 16:51:50</sys_created_on>
+        <sys_id>d2bd9d509759211095c0b4b3f153af93</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-02-24 16:51:50</sys_updated_on>
+        <table>sc_cat_item_producer</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>shopping-bag.png</file_name>
+        <hash>bcafe5158282437176100887015b34e98a7a2030411ee1ae01087a751af8c5c3</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1712</size_bytes>
+        <size_compressed>1735</size_compressed>
+        <state>available</state>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-02-24 17:34:20</sys_created_on>
+        <sys_id>4177e1949799211095c0b4b3f153af1c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-24 17:39:44</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item_producer</table_name>
+        <table_sys_id>899d59509759211095c0b4b3f153afb5</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="shopping-bag.png" sys_id="4177e1949799211095c0b4b3f153af1c">4177e1949799211095c0b4b3f153af1c</sys_attachment>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-02-24 17:34:20</sys_created_on>
+        <sys_id>8577e1949799211095c0b4b3f153af1e</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2300</length>
+        <position>1</position>
+        <sys_attachment display_value="shopping-bag.png" sys_id="4177e1949799211095c0b4b3f153af1c">4177e1949799211095c0b4b3f153af1c</sys_attachment>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-02-24 17:34:20</sys_created_on>
+        <sys_id>cd77e1949799211095c0b4b3f153af1e</sys_id>
+    </sys_attachment_doc>
+</record_update>

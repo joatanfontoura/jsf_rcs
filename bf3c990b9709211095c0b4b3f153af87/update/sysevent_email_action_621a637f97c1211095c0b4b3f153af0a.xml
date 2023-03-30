@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>false</action_insert>
+        <action_update>true</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
+        <collection>x_333993_jsf_rcs_req_de_compra</collection>
+        <condition table="x_333993_jsf_rcs_req_de_compra">stateCHANGESTO4^EQ<item display_value="Done" endquery="false" field="state" goto="false" newquery="false" operator="CHANGESTO" or="false" value="4"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description>Avisa o gestor solicitante da Demanda que a Requisição de Compra foi Concluída.</description>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <enable_dynamic_translation>false</enable_dynamic_translation>
+        <event_name>activate.life.cycle.migration</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>engine</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p>Ol&aacute;, gestor(a)!</p>
+<p>Sua requisi&ccedil;&atilde;o de compra foi conclu&iacute;da. Veja os detalhes a seguir:</p>
+<p><strong>T&iacute;tulo:</strong> ${short_description}</p>
+<p><strong>Descri&ccedil;&atilde;o:</strong> ${description}</p>
+<p><strong>Pedido:</strong> ${pedido}</p>
+<p><strong>NFe:</strong> ${nfe}</p>
+<p>Obrigado!</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Requisição de Compra Concluída</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields>demanda.opened_by</recipient_fields>
+        <recipient_groups/>
+        <recipient_users/>
+        <reply_to/>
+        <send_self>false</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>Sua requisição de compra ${number} foi atualizada: ${state}</subject>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-02-23 13:58:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>621a637f97c1211095c0b4b3f153af0a</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Requisição de Compra Concluída</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="JSF - Requisição de Compras" source="x_333993_jsf_rcs">bf3c990b9709211095c0b4b3f153af87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JSF - Requisição de Compras">bf3c990b9709211095c0b4b3f153af87</sys_scope>
+        <sys_update_name>sysevent_email_action_621a637f97c1211095c0b4b3f153af0a</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-03-02 12:43:19</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template/>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>

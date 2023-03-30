@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_catalog">
+    <m2m_sp_portal_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <order>100</order>
+        <sc_catalog display_value="Compras">72cb1d5c9719211095c0b4b3f153af61</sc_catalog>
+        <sp_portal display_value="Gestão de Compras | Portal">b0323ccc971d211095c0b4b3f153af10</sp_portal>
+        <sys_class_name>m2m_sp_portal_catalog</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-02-24 16:59:00</sys_created_on>
+        <sys_id>6b5f91549759211095c0b4b3f153afec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Compras.Gestão de Compras | Portal</sys_name>
+        <sys_package display_value="JSF - Requisição de Compras" source="x_333993_jsf_rcs">bf3c990b9709211095c0b4b3f153af87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JSF - Requisição de Compras">bf3c990b9709211095c0b4b3f153af87</sys_scope>
+        <sys_update_name>m2m_sp_portal_catalog_6b5f91549759211095c0b4b3f153afec</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-02-24 16:59:00</sys_updated_on>
+    </m2m_sp_portal_catalog>
+</record_update>

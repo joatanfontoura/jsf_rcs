@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>2</order>
+        <size/>
+        <size_lg/>
+        <size_sm>4</size_sm>
+        <size_xs/>
+        <sp_row display_value="1">9026b8c4975d211095c0b4b3f153affa</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-02-23 19:20:21</sys_created_on>
+        <sys_id>9026f8c4975d211095c0b4b3f153af05</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="JSF - Requisição de Compras" source="x_333993_jsf_rcs">bf3c990b9709211095c0b4b3f153af87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JSF - Requisição de Compras">bf3c990b9709211095c0b4b3f153af87</sys_scope>
+        <sys_update_name>sp_column_9026f8c4975d211095c0b4b3f153af05</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-02-23 19:20:21</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="JSF - Requisição de Compras">bf3c990b9709211095c0b4b3f153af87</application>
+        <file_path/>
+        <instance_id>0e69c532db03a4d0d5c911f8489619ed</instance_id>
+        <instance_name>dev108663</instance_name>
+        <name>sp_column_9026f8c4975d211095c0b4b3f153af05</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>2</order><size/><size_lg/><size_sm>4</size_sm><size_xs/><sp_row display_value="1">9026b8c4975d211095c0b4b3f153affa</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>joatan</sys_created_by><sys_created_on>2023-02-23 19:20:21</sys_created_on><sys_id>9026f8c4975d211095c0b4b3f153af05</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2</sys_name><sys_package display_value="JSF - Requisição de Compras" source="x_333993_jsf_rcs">bf3c990b9709211095c0b4b3f153af87</sys_package><sys_policy/><sys_scope display_value="JSF - Requisição de Compras">bf3c990b9709211095c0b4b3f153af87</sys_scope><sys_update_name>sp_column_9026f8c4975d211095c0b4b3f153af05</sys_update_name><sys_updated_by>joatan</sys_updated_by><sys_updated_on>2023-02-23 19:20:21</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>312985572</payload_hash>
+        <record_name>2</record_name>
+        <reverted_from/>
+        <source>3f3c154b9709211095c0b4b3f153af70</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-02-23 19:20:21</sys_created_on>
+        <sys_id>d826f8c4975d211095c0b4b3f153af06</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1867fb82ccc0000001</sys_recorded_at>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-02-23 19:20:21</sys_updated_on>
+        <type>Column</type>
+        <update_guid>d026f8c4a05d211057857a0021473606</update_guid>
+        <update_guid_history>d026f8c4a05d211057857a0021473606:312985572</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="2">f600850c979d211095c0b4b3f153af13</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-02-23 20:03:40</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>1ddb346d2e7347c6886b8bbf45626024</sys_id>
+        <sys_metadata>9026f8c4975d211095c0b4b3f153af05</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="JSF - Requisição de Compras" source="x_333993_jsf_rcs">bf3c990b9709211095c0b4b3f153af87</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="JSF - Requisição de Compras">bf3c990b9709211095c0b4b3f153af87</sys_scope>
+        <sys_scope_delete display_value="">12f98419163f4c908353cbeb9c883840</sys_scope_delete>
+        <sys_update_name>sp_column_9026f8c4975d211095c0b4b3f153af05</sys_update_name>
+        <sys_update_version display_value="sp_column_9026f8c4975d211095c0b4b3f153af05">d826f8c4975d211095c0b4b3f153af06</sys_update_version>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-02-23 20:03:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Requisição de Compra</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Requisição de Compra</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">437db7b52f220010332e1e282799b69d</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-02-20 19:57:20</sys_created_on>
+        <sys_id>acd125479749211095c0b4b3f153af89</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requisição de Compra</sys_name>
+        <sys_package display_value="JSF - Requisição de Compras" source="x_333993_jsf_rcs">bf3c990b9709211095c0b4b3f153af87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JSF - Requisição de Compras">bf3c990b9709211095c0b4b3f153af87</sys_scope>
+        <sys_update_name>sys_wizard_answer_acd125479749211095c0b4b3f153af89</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-02-20 19:57:20</sys_updated_on>
+        <table/>
+        <target_url>x_333993_jsf_rcs_req_de_compra.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

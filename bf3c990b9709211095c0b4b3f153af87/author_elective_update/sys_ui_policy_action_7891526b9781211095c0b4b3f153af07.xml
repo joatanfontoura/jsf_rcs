@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>nfe</field>
+        <mandatory>false</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-02-22 12:42:55</sys_created_on>
+        <sys_id>7891526b9781211095c0b4b3f153af07</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>nfe</sys_name>
+        <sys_package display_value="JSF - Requisição de Compras" source="x_333993_jsf_rcs">bf3c990b9709211095c0b4b3f153af87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JSF - Requisição de Compras">bf3c990b9709211095c0b4b3f153af87</sys_scope>
+        <sys_update_name>sys_ui_policy_action_7891526b9781211095c0b4b3f153af07</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-03-24 15:00:58</sys_updated_on>
+        <table>x_333993_jsf_rcs_req_de_compra</table>
+        <ui_policy display_value="Show NFe Field">7c91526b9781211095c0b4b3f153af04</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="JSF - Requisição de Compras">bf3c990b9709211095c0b4b3f153af87</application>
+        <file_path/>
+        <instance_id>0e69c532db03a4d0d5c911f8489619ed</instance_id>
+        <instance_name>dev108663</instance_name>
+        <name>sys_ui_policy_action_7891526b9781211095c0b4b3f153af07</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>nfe</field><mandatory>false</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>joatan</sys_created_by><sys_created_on>2023-02-22 12:42:55</sys_created_on><sys_id>7891526b9781211095c0b4b3f153af07</sys_id><sys_mod_count>1</sys_mod_count><sys_name>nfe</sys_name><sys_package display_value="JSF - Requisição de Compras" source="x_333993_jsf_rcs">bf3c990b9709211095c0b4b3f153af87</sys_package><sys_policy/><sys_scope display_value="JSF - Requisição de Compras">bf3c990b9709211095c0b4b3f153af87</sys_scope><sys_update_name>sys_ui_policy_action_7891526b9781211095c0b4b3f153af07</sys_update_name><sys_updated_by>joatan</sys_updated_by><sys_updated_on>2023-03-24 15:00:58</sys_updated_on><table>x_333993_jsf_rcs_req_de_compra</table><ui_policy display_value="Show NFe Field">7c91526b9781211095c0b4b3f153af04</ui_policy><visible>true</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>1418866236</payload_hash>
+        <record_name>nfe</record_name>
+        <reverted_from/>
+        <source>3f3c154b9709211095c0b4b3f153af70</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-03-24 15:00:58</sys_created_on>
+        <sys_id>53d01d119735211095c0b4b3f153aff2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18714231c780000001</sys_recorded_at>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-03-24 15:00:58</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>93d01d11e33521108c8f05e668cf4ef1</update_guid>
+        <update_guid_history>93d01d11e33521108c8f05e668cf4ef1:1418866236,b491526b12812110ebec6afed777ac09:-2097330723</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-03-24 15:11:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>6d5df17e771641f882ad18b3f620ef10</sys_id>
+        <sys_metadata>7891526b9781211095c0b4b3f153af07</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>nfe</sys_name>
+        <sys_package display_value="JSF - Requisição de Compras" source="x_333993_jsf_rcs">bf3c990b9709211095c0b4b3f153af87</sys_package>
+        <sys_parent display_value="Show NFe Field">7c91526b9781211095c0b4b3f153af04</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="JSF - Requisição de Compras">bf3c990b9709211095c0b4b3f153af87</sys_scope>
+        <sys_scope_delete display_value="">12f98419163f4c908353cbeb9c883840</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_7891526b9781211095c0b4b3f153af07</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_7891526b9781211095c0b4b3f153af07">53d01d119735211095c0b4b3f153aff2</sys_update_version>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-03-24 15:11:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

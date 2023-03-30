@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>danger</color>
+        <css/>
+        <glyph>comments</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item display_value="">12147da2d7532100a9ad1e173e24d4de</sc_cat_item>
+        <sc_category/>
+        <short_description>Community-sourced answers to your questions</short_description>
+        <size>md</size>
+        <sp_column display_value="4">8826b8c4975d211095c0b4b3f153afed</sp_column>
+        <sp_page display_value="sqa_tagged_questions">c8b2e216d701120023c84f80de6103e9</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-02-23 19:20:21</sys_created_on>
+        <sys_id>0c26b8c4975d211095c0b4b3f153afef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Community</sys_name>
+        <sys_package display_value="JSF - Requisição de Compras" source="x_333993_jsf_rcs">bf3c990b9709211095c0b4b3f153af87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JSF - Requisição de Compras">bf3c990b9709211095c0b4b3f153af87</sys_scope>
+        <sys_update_name>sp_instance_link_0c26b8c4975d211095c0b4b3f153afef</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-02-23 19:20:21</sys_updated_on>
+        <title>Community</title>
+        <type>url</type>
+        <url>?id=sqa_tagged_questions</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=0c26b8c4975d211095c0b4b3f153afef"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="JSF - Requisição de Compras">bf3c990b9709211095c0b4b3f153af87</application>
+        <file_path/>
+        <instance_id>0e69c532db03a4d0d5c911f8489619ed</instance_id>
+        <instance_name>dev108663</instance_name>
+        <name>sp_instance_link_0c26b8c4975d211095c0b4b3f153afef</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;danger&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;comments&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item display_value=""&gt;12147da2d7532100a9ad1e173e24d4de&lt;/sc_cat_item&gt;&lt;sc_category/&gt;&lt;short_description&gt;Community-sourced answers to your questions&lt;/short_description&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="4"&gt;8826b8c4975d211095c0b4b3f153afed&lt;/sp_column&gt;&lt;sp_page display_value="sqa_tagged_questions"&gt;c8b2e216d701120023c84f80de6103e9&lt;/sp_page&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;joatan&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-02-23 19:20:21&lt;/sys_created_on&gt;&lt;sys_id&gt;0c26b8c4975d211095c0b4b3f153afef&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Community&lt;/sys_name&gt;&lt;sys_package display_value="JSF - Requisição de Compras" source="x_333993_jsf_rcs"&gt;bf3c990b9709211095c0b4b3f153af87&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="JSF - Requisição de Compras"&gt;bf3c990b9709211095c0b4b3f153af87&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_0c26b8c4975d211095c0b4b3f153afef&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;joatan&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-02-23 19:20:21&lt;/sys_updated_on&gt;&lt;title&gt;Community&lt;/title&gt;&lt;type&gt;url&lt;/type&gt;&lt;url&gt;?id=sqa_tagged_questions&lt;/url&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Circle Icon",
+		"displayValue": "Circle Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=0c26b8c4975d211095c0b4b3f153afef"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1781641236</payload_hash>
+        <record_name>Community</record_name>
+        <reverted_from/>
+        <source>3f3c154b9709211095c0b4b3f153af70</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-02-23 19:20:21</sys_created_on>
+        <sys_id>4c26b8c4975d211095c0b4b3f153aff1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1867fb82b770000001</sys_recorded_at>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-02-23 19:20:21</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>4426b8c4045d211046b5d72c3c9273f1</update_guid>
+        <update_guid_history>4426b8c4045d211046b5d72c3c9273f1:1781641236</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Community">02300d0c979d211095c0b4b3f153afd3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-02-23 20:04:27</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>0eccd802e7254f9083efc2f0d10eb900</sys_id>
+        <sys_metadata>0c26b8c4975d211095c0b4b3f153afef</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Community</sys_name>
+        <sys_package display_value="JSF - Requisição de Compras" source="x_333993_jsf_rcs">bf3c990b9709211095c0b4b3f153af87</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="JSF - Requisição de Compras">bf3c990b9709211095c0b4b3f153af87</sys_scope>
+        <sys_scope_delete display_value="">12f98419163f4c908353cbeb9c883840</sys_scope_delete>
+        <sys_update_name>sp_instance_link_0c26b8c4975d211095c0b4b3f153afef</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_0c26b8c4975d211095c0b4b3f153afef">4c26b8c4975d211095c0b4b3f153aff1</sys_update_version>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-02-23 20:04:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

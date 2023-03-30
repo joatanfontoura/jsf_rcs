@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="DELETE">
+        <sc_cat_item display_value="Demandas">899d59509759211095c0b4b3f153afb5</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-02-24 16:51:50</sys_created_on>
+        <sys_id>9ebd9d509759211095c0b4b3f153af91</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Demandas.SNC External</sys_name>
+        <sys_package display_value="JSF - Requisição de Compras" source="x_333993_jsf_rcs">bf3c990b9709211095c0b4b3f153af87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JSF - Requisição de Compras">bf3c990b9709211095c0b4b3f153af87</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_9ebd9d509759211095c0b4b3f153af91</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-02-24 16:51:50</sys_updated_on>
+        <user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="JSF - Requisição de Compras">bf3c990b9709211095c0b4b3f153af87</application>
+        <file_path/>
+        <instance_id>0e69c532db03a4d0d5c911f8489619ed</instance_id>
+        <instance_name>dev108663</instance_name>
+        <name>sc_cat_item_user_criteria_no_mtom_9ebd9d509759211095c0b4b3f153af91</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom"><sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Demandas">899d59509759211095c0b4b3f153afb5</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name><sys_created_by>joatan</sys_created_by><sys_created_on>2023-02-24 16:51:50</sys_created_on><sys_id>9ebd9d509759211095c0b4b3f153af91</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demandas.SNC External</sys_name><sys_package display_value="JSF - Requisição de Compras" source="x_333993_jsf_rcs">bf3c990b9709211095c0b4b3f153af87</sys_package><sys_policy/><sys_scope display_value="JSF - Requisição de Compras">bf3c990b9709211095c0b4b3f153af87</sys_scope><sys_update_name>sc_cat_item_user_criteria_no_mtom_9ebd9d509759211095c0b4b3f153af91</sys_update_name><sys_updated_by>joatan</sys_updated_by><sys_updated_on>2023-02-24 16:51:50</sys_updated_on><user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria></sc_cat_item_user_criteria_no_mtom></record_update>]]></payload>
+        <payload_hash>724787996</payload_hash>
+        <record_name>Demandas.SNC External</record_name>
+        <reverted_from/>
+        <source>8e2e68039702111095c0b4b3f153afff</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-09-24 13:03:14</sys_created_on>
+        <sys_id>68b3659c9759211095c0b4b3f153af61</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1836f9846500000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Catalog Item Not Available for</type>
+        <update_guid>28b3659c7e59211066b4ef1c0b6bcd61</update_guid>
+        <update_guid_history>28b3659c7e59211066b4ef1c0b6bcd61:724787996</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Demandas.SNC External">2cb3659c9759211095c0b4b3f153af64</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-24 17:17:55</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_no_mtom">sc_cat_item_user_criteria_no_mtom</sys_db_object>
+        <sys_id>1975bad08f47460c8ffaeb49d3936999</sys_id>
+        <sys_metadata>9ebd9d509759211095c0b4b3f153af91</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Demandas.SNC External</sys_name>
+        <sys_package display_value="JSF - Requisição de Compras" source="x_333993_jsf_rcs">bf3c990b9709211095c0b4b3f153af87</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="JSF - Requisição de Compras">bf3c990b9709211095c0b4b3f153af87</sys_scope>
+        <sys_scope_delete display_value="">12f98419163f4c908353cbeb9c883840</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_9ebd9d509759211095c0b4b3f153af91</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_no_mtom_9ebd9d509759211095c0b4b3f153af91">68b3659c9759211095c0b4b3f153af61</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-24 17:17:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

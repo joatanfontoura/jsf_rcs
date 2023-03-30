@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Demand" language="en" table="x_333993_jsf_rcs_demanda">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Demand</label>
+            <language>en</language>
+            <name>x_333993_jsf_rcs_demanda</name>
+            <plural>Demands</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>joatan</sys_created_by>
+            <sys_created_on>2023-03-15 20:25:56</sys_created_on>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Demand</sys_name>
+            <sys_package display_value="JSF - Requisição de Compras" source="x_333993_jsf_rcs">bf3c990b9709211095c0b4b3f153af87</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="JSF - Requisição de Compras">bf3c990b9709211095c0b4b3f153af87</sys_scope>
+            <sys_update_name>sys_documentation_x_333993_jsf_rcs_demanda__en</sys_update_name>
+            <sys_updated_by>joatan</sys_updated_by>
+            <sys_updated_on>2023-03-15 20:26:03</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

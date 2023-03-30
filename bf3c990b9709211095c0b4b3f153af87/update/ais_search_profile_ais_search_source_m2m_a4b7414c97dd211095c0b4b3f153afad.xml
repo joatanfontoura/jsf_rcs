@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="Requisição de Compras | Workspace Search Profile">b197c50c11dd21109e26ac0eee102a55</profile>
+        <search_source display_value="Requisição de Compra">18b7414c97dd211095c0b4b3f153af8f</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-02-23 20:37:06</sys_created_on>
+        <sys_id>a4b7414c97dd211095c0b4b3f153afad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requisição de Compras | Workspace Search Profile.Requisição de Compra</sys_name>
+        <sys_package display_value="JSF - Requisição de Compras" source="x_333993_jsf_rcs">bf3c990b9709211095c0b4b3f153af87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JSF - Requisição de Compras">bf3c990b9709211095c0b4b3f153af87</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_a4b7414c97dd211095c0b4b3f153afad</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-02-23 20:37:06</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>
