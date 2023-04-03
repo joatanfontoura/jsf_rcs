@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_formatter">
+    <sys_ui_formatter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <angular_module/>
+        <formatter>process_flow.xml</formatter>
+        <name>Process Flow</name>
+        <seismic_component/>
+        <sys_class_name>sys_ui_formatter</sys_class_name>
+        <sys_created_by>joatan</sys_created_by>
+        <sys_created_on>2023-04-03 18:28:27</sys_created_on>
+        <sys_id>0c40a1649742211095c0b4b3f153affb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Process Flow</sys_name>
+        <sys_package display_value="JSF - Requisição de Compras" source="x_333993_jsf_rcs">bf3c990b9709211095c0b4b3f153af87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JSF - Requisição de Compras">bf3c990b9709211095c0b4b3f153af87</sys_scope>
+        <sys_update_name>sys_ui_formatter_0c40a1649742211095c0b4b3f153affb</sys_update_name>
+        <sys_updated_by>joatan</sys_updated_by>
+        <sys_updated_on>2023-04-03 18:28:27</sys_updated_on>
+        <table>x_333993_jsf_rcs_req_de_compra</table>
+        <type>formatter</type>
+    </sys_ui_formatter>
+</record_update>
